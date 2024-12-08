@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background hexagon -->
+    <path d="M256 0L472 128V384L256 512L40 384V128L256 0Z" fill="#2563EB"/>
+    <!-- Inner hexagon -->
+    <path d="M256 64L424 160V352L256 448L88 352V160L256 64Z" fill="#1D4ED8"/>
+    <!-- Cube/blockchain representation -->
+    <path d="M256 128L376 192V320L256 384L136 320V192L256 128Z" fill="#FFFFFF" fill-opacity="0.1"/>
+    <path d="M256 128L376 192L256 256L136 192L256 128Z" fill="#FFFFFF" fill-opacity="0.2"/>
+    <!-- Connection lines -->
+    <path d="M196 256L256 288L316 256M256 288V368" stroke="#FFFFFF" stroke-width="8"/>
+    <!-- Dots representing nodes -->
+    <circle cx="196" cy="256" r="12" fill="#FFFFFF"/>
+    <circle cx="256" cy="368" r="12" fill="#FFFFFF"/>
+    <circle cx="316" cy="256" r="12" fill="#FFFFFF"/>
+    <circle cx="256" cy="288" r="12" fill="#FFFFFF"/>
+</svg>

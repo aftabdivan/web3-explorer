@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web3-explorer/static/css/main.953b3fbb.css",
+    "main.js": "/web3-explorer/static/js/main.7f949796.js",
+    "index.html": "/web3-explorer/index.html",
+    "main.953b3fbb.css.map": "/web3-explorer/static/css/main.953b3fbb.css.map",
+    "main.7f949796.js.map": "/web3-explorer/static/js/main.7f949796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.953b3fbb.css",
+    "static/js/main.7f949796.js"
+  ]
+}
