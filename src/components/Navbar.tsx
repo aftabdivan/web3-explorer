@@ -45,7 +45,7 @@ const Navbar: React.FC<NavbarProps> = ({
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center">
             <img
-              src="/logo.svg"
+              src="/web3-explorer-logo.svg"
               alt="Web3 Explorer Logo"
               className="h-8 w-8 mr-2"
             />
